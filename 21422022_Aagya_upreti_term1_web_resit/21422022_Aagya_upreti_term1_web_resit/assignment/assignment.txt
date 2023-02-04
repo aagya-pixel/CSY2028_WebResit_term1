@@ -1,0 +1,20 @@
+Login information
+
+For user:
+Username: aagya
+Password: aagya
+And
+Username: a
+Password: a
+
+For admin:
+Username: admin
+Password: admin
+
+
+Reference:
+
+CRUD operation:
+
+Funda Of Web It (2022). "CRUD Operation". Available at: https://www.youtube.com/watch?v=RxPex3L9CYI&t=386s (Accessed: 2023 Jan 17).
+
